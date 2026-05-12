@@ -38,9 +38,43 @@ activities = {
         "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
-    }
-
-    
+    },
+    "Basketball": {
+    "description": "Team sport focused on shooting, dribbling, and competitive play",
+    "schedule": "Mondays and Wednesdays, 4:00 PM - 5:30 PM",
+    "max_participants": 15,
+    "participants": []
+},
+    "Tennis Club": {
+    "description": "Racquet sport emphasizing technique, strategy, and fitness",
+    "schedule": "Saturdays, 10:00 AM - 12:00 PM",
+    "max_participants": 8,
+    "participants": []
+},
+    "Drama Club": {
+    "description": "Theater, acting, and stagecraft for aspiring performers",
+    "schedule": "Wednesdays and Fridays, 3:30 PM - 5:00 PM",
+    "max_participants": 20,
+    "participants": []
+},
+    "Painting Class": {
+    "description": "Learn painting techniques including watercolor, acrylic, and oils",
+    "schedule": "Tuesdays, 4:00 PM - 5:30 PM",
+    "max_participants": 12,
+    "participants": []
+},
+    "Debate Team": {
+    "description": "Competitive debate competitions and critical thinking skills",
+    "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+    "max_participants": 10,
+    "participants": []
+},
+    "Science Club": {
+    "description": "Explore fascinating scientific concepts through experiments and demonstrations",
+    "schedule": "Fridays, 4:00 PM - 5:30 PM",
+    "max_participants": 15,
+    "participants": []
+}
 }
 
 
